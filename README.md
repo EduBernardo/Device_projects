@@ -1,2 +1,2 @@
 # Device_projects
-Projects builds in my Android phone
+Projects builds on my Android phone
